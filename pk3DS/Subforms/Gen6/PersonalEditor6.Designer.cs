@@ -1186,7 +1186,7 @@
             // 
             this.NUD_EXP.Location = new System.Drawing.Point(69, 72);
             this.NUD_EXP.Maximum = new decimal(new int[] {
-            300,
+            1000,
             0,
             0,
             0});
